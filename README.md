@@ -1,2 +1,6 @@
-# Curso-Dio-Orange-Tech-BackEnd
-Curso Dio.me Orange Tech + | BackEnd
+# dio-desafio-github-primeiro-repositorio
+Desafio de projeto sobre Git/GitHub
+
+## Links úteis
+[MarkDown](https://pandao.github.io/editor.md/en.html)
+

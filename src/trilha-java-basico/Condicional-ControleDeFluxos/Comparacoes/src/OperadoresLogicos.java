@@ -1,4 +1,3 @@
-import javax.swing.text.html.HTMLDocument.BlockElement;
 
 public class OperadoresLogicos {
     public static void main(String[] args) {
